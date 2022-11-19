@@ -2,6 +2,7 @@
   "name": "test-ci_v2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vadimparinov.github.io/test-ci-v2/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
